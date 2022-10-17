@@ -1,5 +1,5 @@
-# cd-on-gcp-flask-web-
-Example of using a PaaS platform, Google App Engine, of deploying a Flask web application continuously.
+# Continuous Deployment with GCP
+Example of deploying a Flask web application with continuous deployment using PaaS and Google App Engine.
 
 
 ## Make full public available API
